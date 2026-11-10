@@ -1,0 +1,28 @@
+{
+  "products": [],
+  "categories": [],
+  "orders": [],
+  "settings": {
+    "storeName": "Stitches of Elegance",
+    "tagline": "Handmade with Love",
+    "logoUrl": "/assets/aistudio/Screenshot_2026-11-10-13-12-47-886_com.instagram.android_8f254217.jpg",
+    "bannerUrl": "",
+    "whatsappNumber": "919876543210",
+    "currency": "₹",
+    "email": "contact@stitcheselegance.com",
+    "phone": "+91 98765 43210",
+    "address": "Artisan Boutique Studio, India",
+    "instagramUrl": "https://instagram.com",
+    "facebookUrl": "",
+    "deliveryCharge": 60,
+    "freeDeliveryThreshold": 999,
+    "heroHeading": "Handcrafted Elegance, Sewn with Love",
+    "heroSubheading": "Exquisite tailored creations and artisanal bespoke pieces crafted with graceful silhouettes and timeless attention to detail.",
+    "heroButtonText": "Explore Collection",
+    "aboutHeading": "Our Craftsmanship & Heritage",
+    "aboutStory": "Welcome to Stitches of Elegance. Every garment we create is an ode to refined tailoring, premium handpicked textiles, and mindful artisan craftsmanship. From bespoke embroideries to everyday luxury, we weave beauty into every stitch.",
+    "announcementBarText": "✨ Handcrafted with love · Order easily on WhatsApp · Free delivery on orders over ₹999",
+    "showAnnouncement": true
+  },
+  "adminPassword": "admin"
+}

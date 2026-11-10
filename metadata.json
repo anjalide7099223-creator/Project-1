@@ -1,0 +1,6 @@
+{
+  "name": "Stitches of Elegance | WhatsApp E-Commerce Store",
+  "description": "Customizable boutique WhatsApp-based e-commerce store with integrated admin dashboard, real-time product management, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
